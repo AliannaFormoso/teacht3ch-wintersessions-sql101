@@ -11,7 +11,7 @@ id SERIAL PRIMARY KEY,
  area_km2 int
   );
 
--- Inserting values in the first table
+-- Inserting values into the first table
 
 INSERT INTO 
 communities(community_name, capital, population, density, area_km2)
@@ -51,7 +51,7 @@ CREATE TABLE about_communities (
   );
   
 
--- Inserting values in the second table
+-- Inserting values into the second table
 
 INSERT INTO
 about_communities (community_name, community_language, community_location)

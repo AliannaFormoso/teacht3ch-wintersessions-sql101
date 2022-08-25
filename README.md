@@ -1,8 +1,8 @@
-# 📝 TeachT3ch Project
+# 📋 TeachT3ch Project
 
 ## 📜 Winter Sessions
 
-### Lesson
+### 📝 Lesson
 
 - SQL 101
 
