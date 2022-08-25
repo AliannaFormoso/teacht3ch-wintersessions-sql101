@@ -26,7 +26,7 @@
 
 ### 💻 Solutions
 
-**1. First exercise
+**1. First exercise**
 
 - Two tables were created. They show different aspects about Autonomous Communities/Cities in Spain . [First Exercise repo](first_excersise.sql)
 - Some insights on the data can be seen on the next dashboards.
@@ -47,7 +47,7 @@
 - [Spain](https://en.wikipedia.org/wiki/Spain#cite_note-c-4)
 - [Anexo: Comunidades y ciudades autónomas de España](https://es.wikipedia.org/wiki/Anexo:Comunidades_y_ciudades_aut%C3%B3nomas_de_Espa%C3%B1a)
 
-**2. Second Exercise
+**2. Second Exercise**
 
 - The tables/information provided in class were used in order to get the solutions. [Second exercise solution repo](second_excersise.sql)
 - Some insights on the data are presented on the next dashboard
