@@ -23,7 +23,7 @@ AND characters_harrypotter.house is NOT NULL
 GROUP BY characters_harrypotter.house
 ORDER by COUNT(*) DESC;
 
--- Answer: The house with the highest number of humans is Slytherin, with 9 humans.
+-- Answer: The house with the highest number of human characters is Slytherin, with 9 humans.
 
 
 -- C.3) Who is the house founder with a character who has an ancestry "muggleborn"?
@@ -39,4 +39,4 @@ ON characters_harrypotter.house = houses_harrypotter.house
 WHERE characters_harrypotter.ancestry = 'muggleborn'
 ;
 
--- Answer: The house founder with a character who has an ancestry "muggleborn" is Godric Gryffindor. On the other hand, the house name is Gryffindor, and the character who has an ancestry "muggleborn" is Hermione Granger.
+-- Answer: The house founder with a character who has an ancestry "muggleborn" is Godric Gryffindor. On the other hand, the house name is Gryffindor, and the character who has an ancestry "muggleborn" in Gryffindor is Hermione Granger.

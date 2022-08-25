@@ -157,3 +157,5 @@ LEFT JOIN about_communities AS ab
 ON co.community_name = ab.community_name
 GROUP BY ab.community_location
 HAVING COUNT(*) > 1;
+
+-- Answer: Most common locations are: Iberian Peninsula (15) with an average population of 2 924 625 people; and on the north coast of Africa (2) with an average populaton of 84 889 people.
